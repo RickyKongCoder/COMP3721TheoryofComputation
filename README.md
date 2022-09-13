@@ -3,7 +3,7 @@
 
 On successful completion of this course, students are expected to be able to:
 
-1.      decision problems, language recognition, computational machine (finite automata, pushdown automata, Turing machine),classes of language. - [x]
+- [x] 1.      decision problems, language recognition, computational machine (finite automata, pushdown automata, Turing machine),classes of language.
 
 2.      (Prove) DFA, NFA, regex and the equivalence of PDA and CFG. [x]
 
